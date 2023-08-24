@@ -1,4 +1,4 @@
-# SudokuSolverPython
+# SudokuPuzzleSolver
 
 SudokuSolverPython is a user-friendly Sudoku puzzle application built using Python and Tkinter.
 
