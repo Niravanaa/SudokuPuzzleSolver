@@ -1,6 +1,6 @@
 # SudokuPuzzleSolver
 
-SudokuSolverPython is a user-friendly Sudoku puzzle application built using Python and Tkinter.
+SudokuPuzzleSolver is a user-friendly Sudoku puzzle application built using Python and Tkinter.
 
 ## Features
 
@@ -16,12 +16,12 @@ Note: The program can be downloaded using this [link](https://drive.google.com/u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Niravanaa/SudokuSolverPython.git
+git clone https://github.com/Niravanaa/SudokuPuzzleSolver.git
 ```
    
 2. Navigate to the project directory:
 ```bash
-cd SudokuSolverPython
+cd SudokuPuzzleSolver
 ```
 
 3. Run the application:
