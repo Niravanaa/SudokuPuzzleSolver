@@ -2,8 +2,6 @@
 
 SudokuSolverPython is a user-friendly Sudoku puzzle application built using Python and Tkinter.
 
-![Screenshot](screenshot.png)
-
 ## Features
 
 - Interactive Sudoku grid for inputting numbers.
@@ -24,17 +22,17 @@ git clone https://github.com/Niravanaa/SudokuSolverPython.git
 cd SudokuSolverPython
 ```
 
-3. Install dependencies (if any):
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the application:
+3. Run the application:
 ```bash
 python main.py
 ```
 
 # Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Niravanaa/SudokuPuzzleSolver/main/screenshots/Screenshot%201.png" alt="Screenshot 1" width="200">
+  <img src="https://raw.githubusercontent.com/Niravanaa/SudokuPuzzleSolver/main/screenshots/Screenshot%202.png" alt="Screenshot 2" width="200">
+</p>
 
 # Contributing
 
