@@ -12,6 +12,8 @@ SudokuSolverPython is a user-friendly Sudoku puzzle application built using Pyth
 
 ## Getting Started
 
+Note: The program can be downloaded using this [link](https://drive.google.com/uc?export=download&id=1GpWpa9LOUc_4umnFarWZUshLOi2eYR8c).
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/Niravanaa/SudokuSolverPython.git
